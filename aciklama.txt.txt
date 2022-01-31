@@ -1,0 +1,11 @@
+başlatırken
+npm i axios
+npm run-script
+npm run-script start
+
+/Listadmin
+/Listcv
+
+buralardan gerekli sayfaları görebilirsiniz
+
+okulumdan arta kalan zamanda yaptığım için eksikler mevcut.
